@@ -1,7 +1,7 @@
 Analiza las notas de estudiantes ingresadas realizando un seguimiento de las siguientes estadísticas:
 
-Cantidad de Notas: Registra el total de notas ingresadas. 
-Cantidad de Aprobados: Cuenta cuántos estudiantes tienen una nota mayor o igual a 55. 
+Cantidad de Notas: Registra el total de notas ingresadas.
+Cantidad de Aprobados: Cuenta cuántos estudiantes tienen una nota mayor o igual a 55.
 Cantidad de Promocionados: Cuenta cuántos estudiantes tienen una nota mayor o igual a 75.
 
 La aplicación permite realizar las siguientes acciones:
